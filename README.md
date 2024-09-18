@@ -1,5 +1,5 @@
-# I'm Yusuf 
-**A passionate Web Developer from Noakhali , Bangladesh. Currently on a journey to master the REACT JS** :electron:
+# I am Yusuf 
+**A passionate Web Developer from Noakhali , Bangladesh. Currently on a journey to master the REACT JS**  :electron:
 
 **How to Reach Me:**
 ➡️ Email: usuf7hahin@gmail.com 📧
