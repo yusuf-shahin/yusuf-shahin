@@ -1,5 +1,5 @@
-# Hey I'm Yusuf , a javascript guy ◾🟨
-- **. Learning javascript in every single day ,In every possible way  ...** 
+# Hey I'm Yusuf , a javascript guy ◾🏃‍♂️🟨
+- **Learning javascript in every single day ,In every possible way  ...** 
 
 ## A javascript addicted non-player character 🧟‍♂️
 
