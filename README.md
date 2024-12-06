@@ -1,23 +1,11 @@
-# Hello , My name is Yusuf ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-**A passionate Web Developer from Noakhali , Bangladesh. Currently on a journey to master in the REACT JS**  :electron:
+# Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , My name is Yusuf . . . .
+- Programmer • Developer • Learner  
+
+## A javascript addicted person
 
 **How to Reach Me:**
-- Email: usuf7hahin@gmail.com 📧
+- Email: usuf7hahin@gmail.com
 
-### Front-end Development:
-- HTML5
-- CSS3
-- Tailwind CSS
+### Do kidding with coding 🥷 
 
-### Back-end Development:
-- Node
-- Express
 
-### Database
-- MongoDB
-
-### Programming Languages:
-- JavaScript
-- TypeScript
-
-Feel free to connect with me and explore my projects! Happy coding! 🚀
